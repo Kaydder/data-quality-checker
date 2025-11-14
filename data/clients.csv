@@ -1,0 +1,251 @@
+client_id,full_name,email,age,country,signup_date,last_purchase_date,total_spent,is_active,segment,phone_number
+1,Jennifer Green,thull@yahoo.com,-5.0,CANADA,2025-10-29,2021-09-21,unknown,FALSE,VIP,242.194.8924x11578
+2,Eugene Bowman,hramos@brown-sellers.com,23.0,United States,2024-04-04,2025-07-19,,False,VIP,+1-097-535-1393x3287
+3,Francisco Romero,turnerkelly@gmail.com,150.0,CANADA,2023-09-11,2024-06-17,,False,,989.471.9659
+124,Collin Lopez,rjones@gmail.com,27.0,PANAMA,2021-03-12,2020-07-19,,True,,001-868-483-3969x477
+5,Louis Tucker,johndennis@gmail.com,63.0,panama,2022-09-27,2023-01-11,1108.52,FALSE,Basic,(560)123-0989
+6,Mark Obrien,hdavis@jacobs.com,150.0,PANAMA,2021-12-01,2023-12-10,1455.45,true, V.I.P,008.691.4131
+7,Christopher Gordon,lyonspeter@howard-dennis.org,-5.0,Canada,2022-08-05,2019-03-22,unknown,False,VIP,+1-225-841-9720x76984
+8, Matthew Hernandez,vharmon@williams.info,-5.0,Canada,2023-04-25,2017-05-23,3393.62,False,Basic,001-924-661-0935
+82,Mark Gray,moralesjacqueline@yahoo.com,150.0,CANADA,2021-04-06,2021-04-10,4058.14,FALSE,,142.787.8900x754
+10,Rodney Mccann,amymccarty@gmail.com,-5.0,PANAMA,2021-12-22,2019-12-28,,true, V.I.P,(650)300-8913x1934
+11,Catherine Alvarez,johnsonrobin@gmail.com,,USA,2021-12-31,2025-06-04,1662.68,True, V.I.P,512.400.0348x55909
+254,Stephanie Bowman,jaredmatthews@gmail.com,26.0,Panama,2022-02-24,2022-03-05,,True,basic,551-590-0422x94568
+13, John Allen,hayden81powell-murphy.biz,,PANAMA,2021-09-16,2024-08-20,3635.78,True,,755.171.7604x5229
+14,Wendy Miller,karabrowngarcia.net,36.0,United States,2024-09-05,2024-01-09,,FALSE,Basic,001-361-534-9263
+184,Rodney Farrell,mgoodwin@crawford.com,-5.0,Canada,2021-03-22,2021-09-13,4592.41,False, V.I.P,+1-213-765-8219x729
+208,Jenny Boyd,obolton@hotmail.com,-5.0,PANAMA,2025-06-25,2025-01-19,2211.57,True,basic,055.508.2492
+195,Michelle Roman,blackruth@perez.com,-5.0,Usa,2024-09-05,2022-09-05,,True,basic,(275)868-8091
+18,Susan Harris,ybruce@hotmail.com,,panama,2022-11-07,2020-01-15,,true,Premium ,+1-024-894-5174x46660
+84,Bethany Mitchell,mcmahontimothy@gmail.com,-5.0,Usa,2021-07-23,2025-08-05,4144.51,True,,001-256-097-6701x720
+20,Brandi Nguyen,patrickfrank@yahoo.com,150.0,Usa,2021-05-17,2025-01-20,unknown,True,basic,001-795-194-2641x830
+201,Peter Gibson,wintersbill@santana-duffy.org,54.0,Panamá,2022-09-14,2021-10-26,1296.13,FALSE,,886-841-2696
+44,Jennifer Garcia,moodyryanjohnson-calhoun.com,64.0,Canada,2023-01-05,2020-07-14,4188.68,FALSE,Premium,(115)055-2035x192
+107,Matthew Dennis,carterhannah@hall.info,,Panama,2023-01-23,2020-12-21,unknown,True,Premium,invalid
+24,Kevin Moore,lindastewart@young.com,41.0,panama,2024-06-08,2025-07-04,unknown,true,Premium ,2906112648
+25,Brenda Henderson,wrightcynthia@hotmail.com,51.0,Panama,2021-05-10,2023-01-25,2264.89,true,Premium,(065)735-4712x14189
+79,Jill Ross,dthompson@yahoo.com,,United States,2022-01-28,2022-11-21,211.49,true,,173.407.9703x414
+27,Paul Davis,amysullivan@hotmail.com,19.0,Canada,2021-11-22,2022-03-01,,FALSE,VIP,+1-004-689-6714x54391
+28,Dennis Ferguson,pamelagill@perry.com,51.0,Panamá,2022-01-03,2024-09-30,unknown,True,VIP,381.686.4475x92211
+29, John Castro,crystal63@yahoo.com,-5.0,USA,2025-02-17,2022-07-28,unknown,True,basic,074.270.9305x7608
+30,Angela Avery,warddarren@gmail.com,35.0,United States,2023-05-09,2021-10-17,unknown,True,Basic,(943)167-5625
+31,Melissa Hernandez,david27@clarke-price.info,-5.0,PANAMA,2022-09-27,2021-07-14,unknown,True,VIP,390.603.1250x239
+153,Michele Hunt,robert08@hotmail.com,150.0,PANAMA,2025-07-09,2018-05-03,,False,Basic,747.354.0002x504
+33,Richard Becker,shawnmorgan@gmail.com,150.0,Canada,2021-08-05,2022-07-31,3572.03,FALSE,Basic,875-408-0351x38533
+34,Nancy Collins,timothy30@yahoo.com,,USA,2021-06-24,2019-12-11,,True,,770.677.7111x312
+212,Cindy Salazar,lwilliams@gmail.com,-5.0,panama,2022-09-26,2020-12-14,4985.2,False,Basic,556-184-9834x789
+36,Debbie Hall,thompsonrobert@mitchell.com,65.0,Canada,2025-06-02,2024-03-31,,FALSE,,(016)419-5384x33184
+37,Mark Mitchell,lisatran@richardson-walters.com,,CANADA,2022-03-09,2021-05-15,unknown,true, V.I.P,123.793.3236x59927
+56,Allison Carlson,oparker@hotmail.com,,Usa,2022-04-02,2025-06-27,unknown,True, V.I.P,785.142.9635x4603
+39,Paul Wright,jordanpowers@yahoo.com,-5.0,Panama,2023-11-24,2024-09-29,2242.95,False, V.I.P,+1-025-070-0300
+40,Erin Nicholson,ntaylor@yahoo.com,45.0,PANAMA,2022-01-27,2022-11-29,,True,Premium ,256-606-4887x0916
+41,Jonathan Howell,riveramary@wright.com,150.0,Canada,2025-08-22,2021-04-18,,False, V.I.P,001-169-197-2990x456
+42,Stacy Crawford,emily73hotmail.com,,United States,2022-03-31,2023-04-23,1272.3,FALSE, V.I.P,476-048-4870x89840
+43,Bryan Reed,nelsonwendy@becker-perkins.com,150.0,Panama,2022-08-17,2024-05-14,4677.62,true,Premium ,564.319.5398x52250
+44,Tiffany Cox,troy69@yahoo.com,,Canada,2020-11-15,2021-01-23,3009.83,False, V.I.P,001-072-507-4931
+45, Ronald Moreno,bethanydavid@hogan.com,150.0,Panama,2023-04-16,2019-12-25,3890.74,True,,(448)885-5362x08296
+185,Andrew Gaines,coxtina@frazier.com,-5.0,panama,2025-02-03,2020-01-11,unknown,True,Basic,001-393-426-1973x7813
+47,Austin Simmons,johnny59@yahoo.com,23.0,United States,2023-06-23,2020-02-14,unknown,true,Premium ,043.666.6097x5929
+143,Alexander Wells,millermichelle@smith-lee.com,,Panama,2025-06-18,2023-11-15,2222.9,FALSE,VIP,5056246292
+49,Kayla Martin,tthornton@williams.net,62.0,Canada,2024-02-28,2021-05-25,,False,Premium,(911)824-3454x487
+80,Joan Hernandez,huangleslie@lee.org,150.0,CANADA,2024-10-07,2024-04-22,unknown,FALSE,Basic,(527)808-1850
+51,Lawrence Hudson,ohunt@gmail.com,,Panama,2023-07-24,2020-01-22,unknown,True,basic,(205)930-6046
+52,Rebecca Jackson,wbrownwinters.org,69.0,PANAMA,2024-09-21,2023-05-16,unknown,False,Basic,(074)361-5110
+53,Jared Vaughn,stephen87miller-williams.biz,,panama,2023-02-04,2018-08-15,,True,Premium ,invalid
+54,Richard Moore,sonya76@perez.com,,Panamá,2022-04-24,2021-11-22,unknown,true,Premium,invalid
+55,Carolyn Hernandez,william00@berry.com,-5.0,United States,2024-02-05,2020-02-03,,true,Premium,(695)325-8386x12695
+56,Jeffrey Ruiz,eallen@knapp-jones.com,,Usa,2025-05-06,2023-01-11,4728.39,true,,+1-099-734-0956
+57,Sarah Thomas,saundersjessica@yahoo.com,45.0,Panamá,2021-10-03,2023-10-14,,True,Premium,+1-722-576-2948x155
+74,Pamela Mccoy,nataliescott@silva.com,150.0,United States,2024-07-13,2020-02-29,unknown,true,Premium ,+1-646-352-2195x20696
+59,Michael Becker,garyclarkgmail.com,-5.0,Canada,2025-05-02,2021-01-07,unknown,True,Premium,594.516.4258x5826
+60,Thomas Gray,ahunt@yahoo.com,,Canada,2021-09-11,2025-09-05,unknown,FALSE,Premium,(209)981-3998
+61,Nicholas Jackson,smithpatricia@castillo.org,-5.0,Canada,2023-01-09,2025-07-14,432.5,true,Basic,328.818.2028x6937
+62,Kevin Gillespie,ycunninghamschneider.com,-5.0,PANAMA,2025-03-05,2023-09-28,,False,basic,7914878674
+63,Jackson Turner,ejones@long-benton.net,,CANADA,2023-02-14,2023-12-20,1400.44,True,VIP,142.512.0298
+64, Scott Grant,velazquezanita@yahoo.com,150.0,Canada,2020-11-27,2021-12-02,unknown,False,,744.307.5851
+65,Jay Stevenson,jesseboyle@hotmail.com,-5.0,PANAMA,2024-12-15,2025-06-24,1245.24,True,basic,(469)216-5873x556
+66,James Miranda,castillokelly@yahoo.com,,CANADA,2023-10-16,2021-12-08,,FALSE,Premium ,001-257-316-6787x9936
+67,David Holmes,ruizphillip@hoover.com,,Panamá,2021-03-17,2023-04-28,unknown,FALSE,Premium,435-212-5030
+68,Aaron Wilson,figueroajames@meyer.biz,150.0,panama,2025-06-07,2021-05-16,unknown,FALSE,Premium ,366.706.3609
+69,Gregory Richardson,mdavidson@hotmail.com,23.0,panama,2023-01-03,2018-11-27,2357.64,True,Premium ,402-926-3953
+216,Barbara Garcia,hicksseth@gmail.com,150.0,Panama,2025-07-10,2022-10-03,580.76,true, V.I.P,(646)198-5373
+71,Dr. Alexander Cummings,xbenjamin@walker-allen.info,-5.0,panama,2022-01-24,2021-10-22,unknown,FALSE,Premium,457.928.1348x102
+176,Sergio Trujillo,abyrd@yahoo.com,150.0,Panamá,2022-04-16,2023-03-11,646.12,FALSE,VIP,5835288996
+73,Lisa Nolan,fjohnson@bridges.com,,panama,2022-01-02,2021-12-06,,True,basic,invalid
+225,William Stewart,thomaskaren@gmail.com,43.0,Panamá,2024-10-23,2024-06-18,1487.64,true, V.I.P,500.631.6996
+75,Tonya Barnett,omar81gmail.com,150.0,Canada,2025-01-20,2019-12-30,3520.58,true,VIP,invalid
+76,David Watkins,patrickreeseyahoo.com,32.0,Panamá,2023-02-09,2016-01-20,2138.72,FALSE,,(599)718-7656
+77,Lawrence Walls,nicolewilson@wright-soto.com,42.0,USA,2021-11-05,2022-10-16,unknown,true,Basic,593-880-5880x2704
+78,Zachary Garcia,kingdalton@gmail.com,-5.0,panama,2021-12-15,2023-12-29,,true,VIP,8351832363
+79,Derrick Kaufman,jasonclayton@gmail.com,,Panama,2025-08-21,2025-07-08,2759.87,FALSE,basic,001-015-450-1904x12438
+80,Ann Shaw,millertiffany@yahoo.com,150.0,Canada,2023-05-22,2021-11-30,428.08,True, V.I.P,+1-640-004-1558x4038
+81,Anthony Price,jonedwards@hotmail.com,49.0,Usa,2024-09-06,2020-11-28,unknown,True,Premium,(528)037-6031x41227
+82,Heidi Gutierrez,zcampbell@ruiz-zuniga.com,-5.0,USA,2025-04-28,2022-11-27,unknown,False,Premium ,323.422.8480
+83,Robert Butler,katherineanderson@maldonado.com,-5.0,United States,2021-01-16,2023-10-14,,True,Premium,062.686.3688
+84,Scott Patel,nixontonya@foster.com,60.0,CANADA,2024-03-27,2022-01-23,4295.48,FALSE,Premium ,001-129-330-0817x3729
+149,Charles Estrada,warren42@gmail.com,-5.0,panama,2022-07-25,2025-01-15,4507.84,true,Premium ,(574)727-4559x6696
+86,Robert Cunningham,ryanbaker@hicks.net,,Panamá,2025-05-22,2024-03-04,unknown,true,,+1-754-647-8034x7103
+87,Veronica Harding,christinesolomon@ward.com,,CANADA,2022-04-16,2022-07-04,677.9,FALSE,,675.519.6102
+88,Denise Rodgers,luisflynn@yahoo.com,,Usa,2022-02-24,2025-01-25,,FALSE,Basic,001-869-300-6902
+89,Eric Schultz,morgandevon@burgess.com,150.0,United States,2021-07-12,2019-04-15,,False,Premium ,001-218-486-9762x96219
+58,Nicole Olson,ybaker@reid.net,69.0,United States,2021-07-02,2019-12-08,2009.27,true, V.I.P,9021667052
+91,Maria Brady,clarkrobyn@williams.com,,USA,2023-05-24,2023-04-29,,False,VIP,(807)828-2392x1974
+92,Jamie Smith,walterdanielle@barton.com,25.0,Panamá,2023-09-10,2019-12-02,2455.54,True,Premium,invalid
+93,Jeffrey Frank,ostone@gmail.com,59.0,USA,2024-04-06,2024-03-19,2113.26,FALSE,basic,212-206-9118x49457
+94,Emma Caldwell,jesse80@hotmail.com,150.0,Usa,2023-12-24,2019-03-28,,FALSE, V.I.P,invalid
+95,Amanda Diaz,todd60@hotmail.com,67.0,CANADA,2022-11-15,2025-06-06,,False,Basic,+1-752-078-2649x7307
+96,Emily Murphy,williammyersyahoo.com,,CANADA,2023-05-18,2021-11-29,,True,,438.957.3959
+75,Charles Wolf,englishsean@holt.com,-5.0,USA,2022-12-25,2020-08-14,3663.59,True,basic,+1-734-648-3565
+98,Tyler Munoz,gmiller@barker-barnes.com,-5.0,Panamá,2024-02-22,2020-04-30,unknown,FALSE,basic,invalid
+247,Tracy Davis,hunterandres@aguilar.org,24.0,CANADA,2025-08-28,2021-11-11,,True,basic,0141962998
+100,Christopher White,davidperez@kramer-thomas.org,35.0,United States,2022-08-09,2020-07-13,,true,Premium ,(623)905-8724
+42,Melissa Phelps,adamthomas@gmail.com,-5.0,panama,2025-10-11,2025-08-11,4908.62,true,Premium,6227808532
+102,Stanley Hall,craighenry@yahoo.com,52.0,Panama,2023-04-09,2021-09-19,unknown,true,Premium ,861-261-9182x7264
+103,Cassandra Jones,nicholas05@yahoo.com,,Panama,2024-02-17,2024-07-16,unknown,False,VIP,(892)049-7896
+108,James Miller,huntersteven@hotmail.com,-5.0,panama,2021-02-20,2016-11-08,unknown,False,,196.618.3833
+252,Tim Garcia,andreameyer@reynolds.com,150.0,Usa,2024-11-15,2025-04-23,unknown,true,VIP,+1-905-530-3738x3023
+233,Larry Huff,umurphy@hotmail.com,150.0,Panamá,2023-05-25,2025-07-28,3750.26,FALSE,VIP,917-599-1326
+107,Kari Thomas,darrellmorris@hotmail.com,,Panama,2021-07-04,2022-12-03,4907.76,False,Premium ,348.666.0271
+148,Brittney Lopez,eric29@yahoo.com,,panama,2022-08-31,2020-11-09,unknown,True,,(278)620-4791
+188,Annette Snyder,valenciafrances@miller.com,62.0,panama,2025-08-25,2023-01-25,unknown,FALSE,VIP,(319)827-3032
+110,Valerie Charles,garciacody@mcdonald.com,63.0,Canada,2021-07-02,2019-05-21,unknown,FALSE,basic,055.466.0433x192
+127,Christy Flores,robert88@page.org,59.0,Canada,2025-05-26,2023-03-03,,true,VIP,417.434.4152
+112,Vincent West,kmcdonald@hotmail.com,51.0,PANAMA,2022-07-09,2021-03-25,1737.17,True,Premium,4164377486
+68,Debra Russo,matthewericksonsandoval.com,38.0,USA,2022-07-03,2022-09-04,,true,basic,(213)577-2566x65911
+232,Alan Lara,oyoung@hotmail.com,24.0,Panamá,2024-06-14,2020-05-08,unknown,True,Premium ,+1-492-448-1850x20155
+115,Dana Keith,amy76@gmail.com,150.0,Panamá,2020-11-26,2020-10-10,2929.42,True,,348-184-1189x40312
+116,John Strong,kbush@castro.com,-5.0,United States,2023-07-02,2020-07-27,2282.39,FALSE,,+1-634-637-9885x2609
+216,Lindsey Campbell,wfuller@hotmail.com,47.0,USA,2023-01-07,2022-10-18,,FALSE,,223-750-5794x301
+118,Sabrina White,andrea07@yahoo.com,,Canada,2024-08-12,2022-12-29,285.82,true,Basic,3931721886
+119,Jeffrey Stephens,gonzalezkenneth@yahoo.com,150.0,USA,2025-03-27,2025-10-31,,True,Premium,101-566-6347x6806
+120,Brittany Craig,xklein@hotmail.com,-5.0,panama,2023-06-08,2018-03-12,,true, V.I.P,(469)250-6774x135
+121,Mario Moore,parsonsgregory@hotmail.com,,USA,2022-10-23,2025-05-21,unknown,True,basic,(086)624-6748
+20,Christopher Kemp,sbriggs@yates.com,150.0,Usa,2024-10-15,2020-06-10,unknown,False,basic,4374836160
+123,Anna Smith,smithcolleen@gmail.com,,Usa,2022-04-21,2023-11-11,3267.17,true,basic,+1-192-082-1119x1317
+222,John Heath,taylornathan@dixon-miller.net,20.0,Panama,2025-07-27,2021-12-22,unknown,True,Premium ,658-589-8643
+125,Jared Waters,sherri85@gmail.com,150.0,Panama,2020-11-15,2021-01-30,unknown,True,Basic,322-177-2442x025
+126,Mark Shaw,cynthiaflores@hotmail.com,,Panamá,2022-12-06,2022-11-12,,False,,(146)850-5360x6842
+127,William Sharp,rsmith@yahoo.com,150.0,Panama,2022-05-22,2022-01-08,unknown,False,Premium,(812)739-9916x404
+128,Lawrence Rivera,brandycardenas@gmail.com,,Usa,2025-06-26,2021-06-23,,True,Premium ,879.955.5106x527
+129,Morgan Fields,estradasarahhotmail.com,-5.0,CANADA,2025-01-25,2019-02-01,236.03,False, V.I.P,(226)673-4129x0421
+130,James Boyd,amanda67@yahoo.com,-5.0,panama,2022-12-31,2025-01-05,1820.13,FALSE,Basic,444-698-0788x36460
+12,Bradley Yates,vasquezlisa@bailey.info,150.0,Usa,2022-06-09,2024-11-10,unknown,False,Premium ,001-095-346-1312x97275
+226,Vickie Burns,hpeterson@hotmail.com,-5.0,CANADA,2022-10-09,2020-03-31,,FALSE,Premium,(846)891-4282x215
+100,John Miller,courtneyhart@green.info,41.0,CANADA,2021-03-24,2022-09-02,,FALSE,Basic,191-449-5207
+208,Daniel Butler,freynolds@yahoo.com,27.0,Canada,2024-07-07,2021-08-13,unknown,FALSE,basic,001-634-127-5547x53272
+135,Kathleen Davis,grant52@yahoo.com,-5.0,USA,2021-11-09,2020-10-27,unknown,True,Premium,(554)503-4228x2731
+136,Ashley Gray,qmarshall@mann.com,-5.0,Usa,2021-11-19,2023-04-21,unknown,True,Premium ,+1-141-991-3462x874
+137,Maria Powell,mallorymiller@meyer.info,,PANAMA,2021-08-21,2022-09-09,unknown,FALSE,basic,647.025.2733x12761
+185,Barbara Anderson,donna59gates.com,150.0,CANADA,2023-05-20,2020-01-08,691.5,False,Premium,+1-924-388-1472x107
+193,Emily Flynn,victoria28@rojas.com,-5.0,USA,2021-07-31,2024-08-24,unknown,true,Premium,2105431032
+185,Victoria Lynn,uclark@gmail.com,,Usa,2022-10-05,2024-09-14,unknown,False,basic,7062319254
+141,Jodi Mills,lisa84@yahoo.com,150.0,PANAMA,2025-05-29,2022-09-09,770.07,True,Premium ,(564)037-4662x2732
+99,Timothy Shaw,dorismartinez@hamilton.com,21.0,United States,2025-04-02,2020-03-10,unknown,True, V.I.P,invalid
+143,Steven Harris,gmorrison@barnes.com,150.0,USA,2021-12-21,2021-05-18,,true,Premium ,001-445-275-8116x003
+144,David Rivera,murphytimothy@yahoo.com,37.0,CANADA,2022-12-13,2023-02-16,,False,,001-055-218-4709x228
+173,Jordan Berg,rfuentes@campbell-sullivan.com,150.0,United States,2024-09-27,2016-06-04,unknown,False,basic,549-277-0952x6042
+146,Sean Hunt,rebeccaunderwood@yahoo.com,150.0,USA,2025-08-22,2022-12-04,4367.08,FALSE,,001-211-313-7306
+169,Kevin Ramos,morgan63@mcgee.biz,150.0,United States,2023-09-24,2021-09-09,2705.0,true, V.I.P,001-542-243-1562
+148,Michelle Dean,ejohnson@house.com,150.0,Usa,2025-09-16,2021-12-28,2049.91,true,basic,+1-135-789-1229
+149,Jessica Green,pjones@wheeler.info,66.0,Panamá,2022-07-24,2024-04-18,,False,,991-258-0954x8394
+150, Heather Murphy,lori49@gmail.com,150.0,PANAMA,2021-03-11,2019-12-28,unknown,True,Premium ,invalid
+151,Alexis Williams,phillipharper@robinson.com,-5.0,panama,2024-04-24,2016-08-04,,true,Basic,(056)838-5930x6780
+103,Nicholas Bradley,gonzalezkelly@rivera-torres.com,150.0,Panamá,2025-10-07,2023-05-25,,FALSE,Premium ,061-972-6366x287
+153,Maria Warren,ktucker@miller.com,19.0,Usa,2023-07-31,2020-10-31,4343.25,true,Premium ,(989)286-4052
+154,Michelle Estrada,xhensley@gmail.com,-5.0,PANAMA,2022-12-26,2024-11-17,unknown,False,VIP,351-475-4041x543
+175,William Gonzalez,nicholsjohn@gmail.com,150.0,panama,2024-03-09,2020-02-04,unknown,FALSE,,+1-086-143-8411
+257,Megan Gomez,mitchellmelanie@blake.com,150.0,CANADA,2025-10-19,2025-09-24,,True,Basic,173.564.5127
+157,Amy Cannon,nflores@yahoo.com,150.0,Panama,2022-01-23,2022-04-11,202.18,true,Premium,6179211634
+158,Mark Silva,knightrichard@hotmail.com,-5.0,Panama,2025-04-27,2022-12-29,unknown,True,Premium,321.189.2457
+127,Chase George,howard05@garcia.org,33.0,Canada,2021-09-25,2024-08-23,,FALSE,Basic,789-745-9130
+160,Michael Robinson,jennifer17@gmail.com,150.0,Panama,2021-09-08,2023-08-08,1906.22,true,Basic,001-454-705-5355x563
+9,Mark Ryan,gardnernicole@yahoo.com,150.0,Panamá,2024-07-22,2021-01-31,460.25,True,VIP,invalid
+162,Mark Fuller,murraycynthia@lewis-swanson.info,150.0,panama,2022-03-17,2019-11-21,3300.14,FALSE,,(901)503-3744
+192,Kimberly Duke,sanchezjoyce@gmail.com,24.0,CANADA,2022-01-22,2020-10-05,unknown,true,Premium,9819967760
+164,Christine Bishop,wlarson@gmail.com,,Canada,2025-09-19,2024-09-08,unknown,True,basic,648.415.9484
+165,Thomas Velasquez,moranmichelle@hotmail.com,150.0,panama,2021-10-14,2022-08-31,unknown,False,Premium,001-183-900-0471
+166,Mr. Scott Robertson DDS,sierramorales@yahoo.com,,CANADA,2023-06-23,2022-09-06,,True,Basic,9994151267
+167,Diana Rangel,andreagibson@alvarez-miller.com,,Canada,2021-04-23,2021-12-31,unknown,False,Premium,(550)652-4708x845
+168,Lori Jones,stokesmariah@gmail.com,,USA,2023-05-16,2025-10-10,,FALSE,Premium,707-235-3106x769
+19,Michael Stevens,heathermarshall@hotmail.com,,Canada,2024-04-08,2016-02-07,,true,,120-046-8941x579
+170, David Singh,bmills@roth.com,150.0,panama,2021-11-01,2024-08-22,,FALSE,Premium ,085.239.7876
+171,Christopher Ward,connie36@gmail.com,,Panamá,2021-09-19,2021-01-07,,FALSE,basic,+1-592-008-2921x228
+96,Albert Roberts,briannasmith@peterson-downs.com,41.0,Panamá,2021-06-01,2023-05-08,566.48,FALSE,basic,594.238.2928
+173,Kevin Garrett,michaelmcdonald@lopez-barnes.com,38.0,Usa,2022-02-20,2022-01-27,,FALSE,,(571)554-5263
+174,Joe Wheeler,diazanthony@novak-bradley.com,150.0,United States,2024-03-02,2022-04-30,2686.01,FALSE, V.I.P,invalid
+175,Christopher Greer,ymoore@robbins.com,47.0,Panama,2023-07-14,2023-12-12,1195.6,true,Premium,(834)907-2435x049
+176,Cristina Smith,michellesharp@hotmail.com,,Usa,2025-07-29,2021-07-24,unknown,False, V.I.P,001-269-757-9209x66542
+177, Debbie Mckinney,mmorton@white.biz,150.0,PANAMA,2025-05-06,2022-05-09,unknown,true,basic,001-614-422-3422x539
+178,Cameron Michael,jacob49@yahoo.com,,Panamá,2024-05-20,2022-01-30,unknown,False,Basic,988-418-8005x69759
+179,Javier Contreras,pamela20@gmail.com,-5.0,panama,2024-02-25,2022-12-21,2708.59,true,,5589968119
+180,Marvin Powell,calhoundana@beard.com,-5.0,USA,2022-08-17,2022-09-29,4978.85,FALSE, V.I.P,124-323-6633
+181,Diana Espinoza,burnettchristina@shields.info,,Canada,2022-09-01,2016-01-31,4203.18,true,Basic,001-146-101-5519
+145,Annette Baxter,davistimothy@yahoo.com,,Usa,2021-12-22,2021-11-21,unknown,true,Premium,(090)778-8363
+183,Anne Thompson,colejames@hotmail.com,,panama,2023-02-03,2023-12-10,1568.68,true,,729.396.5646
+184,Kyle Henry,evelyn94@torres.biz,-5.0,USA,2023-04-29,2017-03-16,unknown,True,Premium,5060980006
+185,Mathew Mccullough,fisherlaura@gmail.com,150.0,PANAMA,2023-10-01,2020-03-30,unknown,True,Basic,5190819803
+186,Ashlee White,jessehull@ross-williams.net,,Usa,2021-07-03,2021-10-22,1433.66,True,Premium ,(671)331-2676
+187,Cheryl Johnson,jackieharmon@gmail.com,-5.0,CANADA,2023-06-22,2023-02-25,,False, V.I.P,001-779-658-3148
+257,Tim Mccarty,michellehamilton@yahoo.com,150.0,Usa,2024-02-07,2022-08-10,unknown,FALSE,basic,001-531-443-1368x2536
+189,Danielle Mills,lroy@yahoo.com,,Canada,2021-09-08,2021-04-13,unknown,True, V.I.P,+1-184-406-6309x2066
+190,Regina James,kstanleyhotmail.com,-5.0,CANADA,2021-08-06,2020-03-02,unknown,true,VIP,(983)256-2847
+191,Debra Oliver,alexanderlove@hill-chandler.com,,CANADA,2024-11-01,2025-02-07,1246.09,true, V.I.P,001-202-086-5150x78346
+31,Jerry Freeman,daltonzachary@robinson.net,,panama,2023-08-08,2022-03-23,,False,Premium,905.419.9217
+193,David Strong,melissajordan@kent.com,,panama,2025-05-22,2024-10-15,,True,Premium ,0309547944
+194,Veronica Jones MD,archerfrank@robinson-king.com,150.0,panama,2023-11-16,2022-01-09,2630.66,False, V.I.P,081.619.6711x72626
+195,Donald Thomas,robin93@hotmail.com,60.0,panama,2021-03-28,2021-09-26,unknown,FALSE,VIP,862.880.3483x408
+196,Diane Anderson,marissa74@williams.net,,panama,2020-12-14,2025-10-04,4290.02,True,Premium ,(156)346-8592
+197,Matthew Stanton,mark38@hotmail.com,,CANADA,2022-11-16,2024-09-11,unknown,true,VIP,001-907-334-2273
+198,David Sanders,christinamckinney@rios-bradley.com,,Panama,2024-02-12,2020-10-28,3670.61,FALSE,VIP,+1-517-539-9015x734
+199,Patricia Jones,tylerburns@hotmail.com,-5.0,USA,2024-04-24,2024-04-13,unknown,FALSE,Premium ,220.871.6521x9957
+200,Megan Barnes,tiffany84@graham.info,,panama,2024-11-16,2022-05-05,1325.79,False, V.I.P,001-785-791-4367x5727
+185,Matthew Clark,diana20@silva.net,150.0,USA,2025-08-03,2023-12-22,,True, V.I.P,206-546-0003x610
+202,Daniel Adams,thomaswilliamsking.info,,PANAMA,2022-03-19,2021-09-17,4894.99,False,Premium,380.077.5210
+25,Mandy Friedman,kristen74@gmail.com,53.0,Panama,2022-02-20,2017-06-10,4582.37,true, V.I.P,001-583-899-3884x8322
+204,Dustin Mcdowell,danielbernard@gmail.com,70.0,Usa,2022-06-13,2020-04-13,3497.46,True,,(809)495-3000x03511
+205,Anthony Gill,josephwinters@hotmail.com,150.0,panama,2021-10-21,2021-01-05,unknown,False,,+1-155-450-1645
+206,Adrienne Burns,charlesreed@jones.net,,Panama,2023-04-20,2019-02-08,4487.06,False,,001-605-379-9378x17359
+207,Tyrone Rivas,pgoodwin@rodriguez.com,,Panama,2024-01-21,2023-03-01,,true,basic,001-843-316-3230x561
+54,Kimberly Williams,michaelperry@michael-roberts.com,45.0,Canada,2022-04-27,2023-09-16,797.9,true,,+1-272-685-5102x55314
+186,Anna Kim,gibsoncameron@harris.org,150.0,Panamá,2023-11-23,2023-01-10,4064.55,True, V.I.P,4405905261
+210,Stephanie Thomas,qferrell@hotmail.com,150.0,United States,2020-12-23,2023-01-20,unknown,True,Basic,invalid
+211,John Bradley,ismith@gmail.com,54.0,Usa,2022-09-17,2021-04-12,4888.51,true,Premium ,+1-272-730-8087x764
+212,Leonard Delgado,barbarapearson@williams.biz,,Panama,2021-04-06,2020-02-18,4574.76,True,,001-567-399-0839x5324
+213,Thomas Sexton,nrobinson@yahoo.com,150.0,Usa,2024-03-28,2021-02-18,,True,Premium ,001-687-146-5565x64037
+188,Eugene Brooks,brendarollins@hotmail.com,,panama,2024-06-06,2022-07-28,841.77,FALSE,VIP,034-134-1323
+215,Eileen Ochoa,deborahsnydertucker.com,18.0,CANADA,2023-06-25,2023-08-21,350.82,true,Premium,001-438-825-4225x6457
+247,Cassandra Gibson,bpearson@yahoo.com,-5.0,Panama,2023-10-12,2024-01-17,1616.6,true,,057-571-1844x96571
+217,Valerie Gutierrez,oweaver@gomez.org,-5.0,Canada,2025-02-24,2025-01-28,2632.23,true,basic,(304)883-9831x86180
+218,Anthony Jennings,harperterri@lynch.net,61.0,panama,2022-10-06,2022-05-13,,true,Premium,(337)334-5395
+219,James Gill,fdelacruz@turner.com,31.0,PANAMA,2021-02-10,2020-04-30,unknown,FALSE,basic,(174)476-4385x891
+220,Mrs. Kimberly Ayala,lbishop@rose-yates.net,150.0,CANADA,2022-01-10,2020-07-06,3886.02,FALSE, V.I.P,(140)385-6851
+221,Molly Johnson,qsmithlawrence-hansen.com,23.0,Canada,2023-09-24,2023-05-25,,False,,invalid
+241,Helen Conley,katherine72hill.info,-5.0,Panama,2023-06-06,2025-04-13,unknown,FALSE,basic,229.138.2701x85565
+223, Sara Gibbs,poncecarolyn@hotmail.com,,Canada,2023-06-13,2020-02-15,,False,Basic,871-841-9509x24257
+224,George Potts,sandra97@bryant.org,,Usa,2024-07-11,2023-07-06,,FALSE,Premium,327.030.7021x2831
+63,Chelsea Strong,amartin@palmer-perez.info,,Canada,2021-10-23,2020-10-19,unknown,False,,811.819.1024
+226,Susan Thomas,marcfarmer@hotmail.com,,United States,2025-01-28,2021-04-12,unknown,FALSE,Premium,332-967-6092x90410
+220,Daniel Lozano,andrewcole@wade-clark.com,,United States,2023-11-15,2024-01-18,,True,basic,(590)019-9773x78043
+22,Sandra Walton,karen65@hotmail.com,,PANAMA,2022-12-08,2021-06-21,unknown,FALSE,VIP,091-013-5918x64327
+229,Shawn Matthews,romanmartha@jones.biz,37.0,Panama,2022-08-16,2020-12-30,985.0,FALSE,Basic,334-401-2874
+230,Peter Meyers,davidgonzalez@simpson.com,-5.0,Usa,2024-05-08,2019-04-07,4573.41,true,Premium,001-929-265-8833
+184,Jonathan Fowler,rdickson@williams-morris.com,150.0,Canada,2021-02-08,2022-08-19,4730.24,True, V.I.P,189.649.8230x7137
+149,Teresa Smith,elizabeth09@gmail.com,-5.0,PANAMA,2021-04-07,2021-02-19,1174.63,True, V.I.P,044-111-3990
+233,Ronald Franklin,zchandler@wyatt-johnson.com,150.0,Panamá,2023-08-07,2021-04-26,,False,VIP,(360)049-8342x90643
+234,Christopher Chavez,marydaniel@phillips-myers.com,,panama,2024-12-01,2021-09-26,3942.4,true,Premium,405-949-4345x844
+194,Mr. Jason Cherry,joshuawatson@ramos.biz,,Panama,2025-06-22,2023-08-25,,False, V.I.P,139-749-1001x38658
+236,Edward Simpson,amy87@oliver-martinez.net,-5.0,panama,2021-04-14,2018-04-11,717.15,True,basic,393.041.6565
+237,Joyce Perry,brooksmaria@wilson-sutton.com,,Panamá,2021-12-20,2022-05-24,unknown,False,Premium ,3844317187
+238,Elizabeth Garcia,michaelmacias@watson.com,-5.0,Canada,2022-07-07,2025-04-24,unknown,False,VIP,064.464.1009x23808
+239,Lori Roberts,breannacase@crawford.com,61.0,CANADA,2023-11-27,2020-11-19,unknown,False,basic,322.487.4743
+176,Joel Hartman,kathrynprice@bailey.info,,PANAMA,2021-12-28,2025-10-25,unknown,True,VIP,(676)390-4980x79069
+241,Kyle Orozco,nelsontammy@evans.com,,CANADA,2022-08-12,2025-10-06,unknown,FALSE,,297.657.8291
+242,Ryan Taylor,denisepeterson@hotmail.com,44.0,PANAMA,2025-09-25,2022-09-19,,FALSE,Premium ,001-157-012-2442x32558
+243,Nicole Lawrence,lhuff@harrison-harris.info,150.0,Usa,2024-02-18,2017-02-24,4142.82,False,Premium,187.694.5112
+244,Christopher Stevens MD,anthonylopez@hotmail.com,,panama,2023-10-05,2022-11-02,,FALSE,,001-745-955-1461x79595
+221,Paul Parks,leah30@castro.com,150.0,Panama,2024-02-18,2022-05-04,4901.42,True,Premium,703-456-5011x05920
+155,Deborah Shepherd,paula33@jensen.com,,panama,2023-02-10,2023-01-22,unknown,true,basic,546-530-6251x23827
+160,Jill Baldwin,mmiller@wilkins.biz,-5.0,PANAMA,2023-08-25,2024-08-07,unknown,True,Premium,004.962.3396
+248,Olivia Cisneros,sarabender@smith.com,30.0,Canada,2022-12-21,2021-03-05,,true,Premium ,568.615.9156
+249,Amy Carney,jennifer21@yahoo.com,40.0,USA,2023-04-15,2021-04-29,4204.22,true,,633.116.2798x788
+92,Michelle Arroyo,castillojamie@duncan-miller.net,34.0,Panamá,2021-12-15,2022-01-28,,False,,616-048-4695x74007
